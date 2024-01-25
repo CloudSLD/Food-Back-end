@@ -4,7 +4,7 @@
 
 ## Sobre
 
-O Food Explorer é uma aplicação web desenvolvida com tecnologias como React.js no [front-end](https://github.com/GomidesTs/food-explorer-front-end) e Node.js no back-end que proporciona uma experiência completa de navegação e compra de alimentos para clientes de um restaurante. Com funcionalidades como customização de perfil, filtragem de favoritos e carrinho 100% funcional com opções de pagamento em cartão ou Pix, o projeto oferece segurança e praticidade aos usuários.
+O Food Explorer é uma aplicação web desenvolvida com tecnologias como React.js no [front-end](https://github.com/CloudSLD/Food-Front-end) e Node.js no back-end que proporciona uma experiência completa de navegação e compra de alimentos para clientes de um restaurante. Com funcionalidades como customização de perfil, filtragem de favoritos e carrinho 100% funcional com opções de pagamento em cartão ou Pix, o projeto oferece segurança e praticidade aos usuários.
 
 Além disso, o administrador tem acesso para criar, editar e remover pratos, além de poder alterar o status dos pedidos, que são imediatamente atualizados na tela dos consumidores. O destaque é a responsividade do projeto, que se adapta a diversos tipos de dispositivos, incluindo desktops, tablets e smartphones.
 
@@ -33,11 +33,6 @@ As seguintes tecnologias foram empregadas na no desenvolvimento do back-end:
 
 ## Como utilizar
 
-Clone o projeto para o local desejado em seu computador.
-
-```bash
-git clone https://github.com/GomidesTs/food-explorer-back-end.git
-```
 
 Execute o back-end
 
@@ -61,7 +56,7 @@ npm run dev
 
 ## Veja o resultado final
 
-Você observará a união desse repositório com o [front-end](https://github.com/GomidesTs/food-explorer-front-end), crie uma conta e desfrute da aplicação.
+Você observará a união desse repositório com o [front-end](https://github.com/CloudSLD/Food-Front-end), crie uma conta e desfrute da aplicação.
 
 ### Quer ver como a aplicação funciona vista pelo administrador? Use a conta a seguir
 
@@ -71,7 +66,7 @@ O servidor deste projeto foi hospedado no [Render](https://render.com/), um serv
 
 Por outro lado, o front-end foi hospedado na plataforma [Netlify](https://www.netlify.com/), que permite hospedar sites e aplicativos web de forma gratuita. Para que o front-end funcione corretamente, é fundamental que o servidor de back-end esteja em funcionamento e respondendo corretamente. Caso contrário, o front-end pode apresentar erros ou comportamentos inesperados.
 
-[O resultado FINAL pode ser visto aqui](https://delicate-belekoy-60cb5c.netlify.app/)
+[O resultado FINAL pode ser visto aqui](https://gregarious-mermaid-a38bd1.netlify.app/)
 
 ## Executando Testes
 
